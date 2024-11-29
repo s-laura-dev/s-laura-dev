@@ -1,15 +1,28 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A passionate frontend developer based in Paris</h3>
+<h1 align="center">Hi there 👋, I'm Laura</h1>
+<h3 align="center">Frontend Developer | UI Enthusiast | Finance & Tech Explorer</h3>
 
-- 🇫🇷 Currently working for LouisVuitton 
+---
 
-- 👩🏼‍💻 Take a look at my [website](https://lauraspinadev.web.app/)
+- 🌍 **Based in Paris**, currently crafting seamless digital experiences at **Louis Vuitton** 🇫🇷.  
+- 🌐 Check out my [website](https://lauraspinadev.web.app/) for projects, experiments, and more!  
+- 🌱 Currently diving into **Python** to expand my full-stack skills.  
+- 🍝 Fun fact: **I'm a passionate cook**, blending creativity in both the kitchen and code.
+- 📈 Combining my background in **finance** with a love for technology to build meaningful tools.  
 
-- 🌱 I’m currently learning **Node.Js**
+---
 
-- 🇮🇹 Fun fact **I'm a very good cook**
+✨ **What I love working with:**  
+- Frameworks: **React**, **Next.js**, **Vue**, **Nuxt**  
+- Styling: **Tailwind CSS**  
+- APIs: **GraphQL**, REST  
+
+---
+
+🎉 **Thanks for stopping by!**  
+Feel free to explore my repositories and reach out—I’m always up for exciting collaborations!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
