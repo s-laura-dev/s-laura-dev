@@ -5,7 +5,7 @@
 ---
 
 - 🌍 **Based in Paris**, crafting seamless digital experiences at **Louis Vuitton** 🇫🇷.  
-- 🌐 Check out my [website](https://lauraspinadev.web.app/) for projects, experiments, and more!  
+- 🌐 Check out my [website](https://s-laura-dev.vercel.app/) for projects, experiments, and more!  
 - 🌱 Currently diving into **Python** to expand my full-stack skills.  
 - 🍝 Fun fact: **I'm a passionate cook**, blending creativity in both the kitchen and code.
 - 📈 Combining my background in **finance** with a love for technology to build meaningful tools.  
