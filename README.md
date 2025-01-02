@@ -4,7 +4,7 @@
 
 ---
 
-- 🌍 **Based in Paris**, crafting seamless digital experiences at **Louis Vuitton** 🇫🇷.  
+- 🌍 **Based in Paris**, crafting seamless digital experiences at **Christian Dior** 🇫🇷.  
 - 🌐 Check out my <a href="https://s-laura-dev.vercel.app/" target="_blank" rel="noopener noreferrer">website</a> for projects, experiments, and more!  
 - 🌱 Currently diving into **Python** to expand my full-stack skills.  
 - 🍝 Fun fact: **I'm a passionate cook**, blending creativity in both the kitchen and code.
@@ -14,7 +14,7 @@
 
 ✨ **What I love working with:**  
 - Frameworks: **React**, **Next.js**, **Vue**, **Nuxt**  
-- Styling: **Tailwind CSS**  
+- Styling: **Tailwind CSS**, **MUI**, **Chakra UI**
 - APIs: **GraphQL**, REST  
 
 ---
